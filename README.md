@@ -2,7 +2,7 @@
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Dashboard_Snapshot](https://app.powerbi.com/view?r=eyJrIjoiYWM2ZTBmMzAtMzI4NS00ZjcwLWEzYzYtZmUwZTViYTY4NDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+![Dashboard_Snapshot](https://github.com/kscheran93/Power-BI-Data-science-job-salaries/blob/main/datascience.png)
 
 ### Dashboard Link: [Your Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYWM2ZTBmMzAtMzI4NS00ZjcwLWEzYzYtZmUwZTViYTY4NDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
